@@ -1,6 +1,7 @@
 # WindScope — Full-stack UK Wind Generation Dashboard
 
-A single-page React + Vite + Tailwind CSS dashboard with a FastAPI backend that reads national UK wind generation actuals and forecasts from Elexon BMRS.
+A single-page React + Vite + Tailwind CSS dashboard with a FastAPI backend that reads national UK wind generation actuals and forecasts from Elexon BMRS. 
+
 
 ## What is included
 
